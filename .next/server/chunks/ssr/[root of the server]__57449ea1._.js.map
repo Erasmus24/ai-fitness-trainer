@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 27, "column": 0}, "map": {"version":3,"sources":["file:///Users/burakorkmez/Desktop/codeflex/src/app/%28auth%29/sign-in/%5B%5B...sign-in%5D%5D/page.tsx"],"sourcesContent":["import { SignIn } from \"@clerk/nextjs\";\n\nconst SignInPage = () => {\n  return (\n    <main className=\"flex h-screen w-full items-center justify-center\">\n      <SignIn />\n    </main>\n  );\n};\nexport default SignInPage;\n"],"names":[],"mappings":";;;;AAAA;;;AAEA,MAAM,aAAa;IACjB,qBACE,8OAAC;QAAK,WAAU;kBACd,cAAA,8OAAC,sLAAA,CAAA,SAAM;;;;;;;;;;AAGb;uCACe","debugId":null}}]
+}
